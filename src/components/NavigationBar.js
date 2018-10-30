@@ -22,7 +22,7 @@ const NavigationBar = () => (
           </span>
           <ul className="navbar-nav mb-auto mt-0 ml-auto downmenu">
               <li className="nav-item active">
-                  <a className="nav-link py-0" href="#">Video</a>
+                  <a className="nav-link py-0" href="#">INI Berhasil Deploy</a>
               </li>
               <li className="nav-item">
                   <a className="nav-link py-0" href="#">Honor</a>
